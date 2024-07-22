@@ -12,3 +12,19 @@ h1 {
 .footnote {
     font-size: 16px;
 }
+
+a {
+    font-size: inherit;
+}
+
+strong {
+    font-size: inherit;
+}
+
+em {
+    font-size: inherit;
+}
+
+sup {
+    font-size: 0.7em;
+}
